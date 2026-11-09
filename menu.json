@@ -48,7 +48,7 @@
           "imageFiller": "default",
           "imagePreload": true,
           "imageBoundary": true,
-          "action": "link:https://cdn.jsdelivr.net/gh/cvyii/msx@main/apps/android_3.15.1.apk"
+          "action": "link:https://cdn.jsdelivr.net/gh/cvyii/msx@882f46d/apps/android_3.15.1.apk"
         }
       ]
     }
