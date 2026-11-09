@@ -41,14 +41,14 @@
           "color": "msx-purple",
           "label": "MyTV Portal",
           "headline": "MyTV Portal",
-          "text": "Open public IPTV directory",
+          "text": "Open MyTV Plus",
           "icon": "dashboard",
           "iconSize": "extra-large",
           "image": "https://cdn.jsdelivr.net/gh/cvyii/msx@main/icons/mytv.svg",
           "imageFiller": "default",
           "imagePreload": true,
           "imageBoundary": true,
-          "action": "link:https://iptv-org.github.io/"
+          "action": "link:https://www.mytvplus.net/#hero_container"
         }
       ]
     }
