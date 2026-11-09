@@ -1,6 +1,6 @@
 {
   "name": "Smart TV Launcher",
   "version": "1.0.1",
-  "parameter": "menu:https://cvyii.github.io/msx-smart-tv-launcher/menu.json",
+  "parameter": "menu:https://cdn.jsdelivr.net/gh/cvyii/msx@main/menu.json",
   "welcome": "none"
 }
