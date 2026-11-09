@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" fill="#111827"/>
+  <rect x="70" y="92" width="372" height="250" rx="28" fill="#2563eb" stroke="#ffffff" stroke-width="18"/>
+  <path d="M154 396h204M256 342v54" stroke="#ffffff" stroke-width="20" stroke-linecap="round"/>
+  <path d="m170 168 42 52 44-66 44 66 42-52" fill="none" stroke="#ffffff" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="256" y="475" text-anchor="middle" font-family="Arial,sans-serif" font-size="48" font-weight="700" fill="#ffffff">MYTV</text>
+</svg>

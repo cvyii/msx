@@ -1,0 +1,56 @@
+{
+  "name": "Smart TV Launcher",
+  "version": "1.0.1",
+  "type": "pages",
+  "preload": "none",
+  "transparent": 0,
+  "refocus": 1,
+  "headline": "Smart TV Launcher",
+  "pages": [
+    {
+      "display": true,
+      "important": true,
+      "area": "0,0,12,6",
+      "items": [
+        {
+          "id": "ottplayer",
+          "type": "button",
+          "layout": "0,0,6,6",
+          "focus": true,
+          "enable": true,
+          "round": true,
+          "color": "msx-blue",
+          "label": "OTTPlayer",
+          "headline": "OTTPlayer",
+          "text": "Open OTTPlayer",
+          "icon": "live-tv",
+          "iconSize": "extra-large",
+          "image": "https://cvyii.github.io/msx-smart-tv-launcher/icons/ottplayer.svg",
+          "imageFiller": "default",
+          "imagePreload": true,
+          "imageBoundary": true,
+          "action": "link:http://widget.ottplayer.tv"
+        },
+        {
+          "id": "mytv-portal",
+          "type": "button",
+          "layout": "6,0,6,6",
+          "focus": false,
+          "enable": true,
+          "round": true,
+          "color": "msx-purple",
+          "label": "MyTV Portal",
+          "headline": "MyTV Portal",
+          "text": "Open public IPTV directory",
+          "icon": "dashboard",
+          "iconSize": "extra-large",
+          "image": "https://cvyii.github.io/msx-smart-tv-launcher/icons/mytv.svg",
+          "imageFiller": "default",
+          "imagePreload": true,
+          "imageBoundary": true,
+          "action": "link:https://iptv-org.github.io/"
+        }
+      ]
+    }
+  ]
+}
